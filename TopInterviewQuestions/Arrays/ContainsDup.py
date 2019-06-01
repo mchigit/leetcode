@@ -1,5 +1,5 @@
 """
-Check if array has duplicates. Pretty simple. 
+Check if array has duplicates. Pretty simple.
 """
 
 from typing import List
