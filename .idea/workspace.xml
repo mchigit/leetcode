@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a5d320c-6a7d-4928-bfc3-2e5916352468" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Strings/CountAndSay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Strings/FirstUniqueChar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Strings/IsAnagram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Strings/LongestCommonPrefix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Strings/ReverseInteger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Strings/ReverseString.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Strings/StringToInt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Strings/ValidPalindrome.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Strings/strStr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/DeleteNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/MergeTwoSorted.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/RemoveNthLast.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/ReverseLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Trees/BinaryDepth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Trees/LevelOrderTravers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Trees/SortedArraytoBST.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Trees/SymmetricTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TopInterviewQuestions/Trees/ValidateBinary.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,91 +30,94 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Arrays/RotateImage.py">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/LongestCommonPrefix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="514">
-              <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
+            <state relative-caret-position="589">
+              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/ReverseString.py">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/BinaryDepth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="722">
+              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/ReverseInteger.py">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/ValidateBinary.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="760">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/FirstUniqueChar.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="125" selection-start-line="12" selection-start-column="125" selection-end-line="12" selection-end-column="125" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/IsAnagram.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/ValidPalindrome.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/StringToInt.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/strStr.py">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/SymmetricTree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/CountAndSay.py">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/LevelOrderTravers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="47" selection-start-line="30" selection-end-line="48" selection-end-column="27" />
+            <state relative-caret-position="1045">
+              <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+              <folding>
+                <element signature="e#359#382#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/SortedArraytoBST.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/DeleteNode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/RemoveNthLast.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/ReverseLinkedList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/LongestCommonPrefix.py">
+        <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/MergeTwoSorted.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+            <state relative-caret-position="551">
+              <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -152,14 +155,23 @@
         <option value="$PROJECT_DIR$/TopInterviewQuestions/Strings/strStr.py" />
         <option value="$PROJECT_DIR$/TopInterviewQuestions/Strings/CountAndSay.py" />
         <option value="$PROJECT_DIR$/TopInterviewQuestions/Strings/LongestCommonPrefix.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/Trees/BinaryDepth.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/Trees/ValidateBinary.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/Trees/SymmetricTres.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/Trees/SymmetricTree.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/Trees/LevelOrderTravers.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/Trees/SortedArraytoBST.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/DeleteNode.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/RemoveNthLast.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/ReverseLinkedList.py" />
+        <option value="$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/MergeTwoSorted.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+    <option name="width" value="1933" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -185,7 +197,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="TopInterviewQuestions" type="462c0819:PsiDirectoryNode" />
-              <item name="Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedLists" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -351,23 +363,25 @@
       <workItem from="1559324258339" duration="4826000" />
       <workItem from="1559424616738" duration="4049000" />
       <workItem from="1559478281334" duration="5985000" />
-      <workItem from="1559569615084" duration="8058000" />
+      <workItem from="1559569615084" duration="8686000" />
+      <workItem from="1559609669426" duration="2087000" />
+      <workItem from="1559653690281" duration="3424000" />
+      <workItem from="1559754364868" duration="3287000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27695000" />
+    <option name="totallyTimeSpent" value="37121000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="0" width="1546" height="830" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07675906" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17765814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -481,7 +495,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Arrays/RotateImage.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="514">
+        <state relative-caret-position="1254">
           <caret line="66" column="30" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
         </state>
       </provider>
@@ -489,14 +503,14 @@
     <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/ReverseString.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
-          <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/ReverseInteger.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -509,8 +523,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/IsAnagram.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
@@ -523,29 +537,95 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/StringToInt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="703">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/strStr.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
+        <state relative-caret-position="437">
           <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/CountAndSay.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
+        <state relative-caret-position="893">
           <caret line="47" selection-start-line="30" selection-end-line="48" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Strings/LongestCommonPrefix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="15" lean-forward="true" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+        <state relative-caret-position="589">
+          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/BinaryDepth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/ValidateBinary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/SymmetricTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/LevelOrderTravers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+          <folding>
+            <element signature="e#359#382#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/Trees/SortedArraytoBST.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/DeleteNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/RemoveNthLast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/ReverseLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TopInterviewQuestions/LinkedLists/MergeTwoSorted.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="28" lean-forward="true" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
         </state>
       </provider>
     </entry>
