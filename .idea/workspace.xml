@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="61720f95-7a0d-4e63-8ec6-d787923c10b0" name="Default Changelist" comment="Leetcode">
-      <change afterPath="$PROJECT_DIR$/Easy/Array/InvertAnImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Explaination/InvertAnImage.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Easy/TwoSum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/AddTwoNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Medium/LongestNonRepeatingSubstring.py" afterDir="false" />
+    <list default="true" id="61720f95-7a0d-4e63-8ec6-d787923c10b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Easy/Array/SortArrayByParity.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Array/SquaresOfSortedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Explaination/SortArrayByParity.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Easy/Explaination/SquaresOfSortedArray.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -50,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.SortArrayByParity">
     <configuration name="InvertAnImage" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,8 +71,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="SortArrayByParity" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Easy/Array" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Easy/Array/SortArrayByParity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SortArrayByParity" />
         <item itemvalue="Python.InvertAnImage" />
       </list>
     </recent_temporary>
@@ -99,8 +120,16 @@
       <workItem from="1560956466864" duration="105000" />
       <workItem from="1571717508032" duration="216000" />
       <workItem from="1571805999209" duration="2954000" />
-      <workItem from="1572727216397" duration="2965000" />
+      <workItem from="1572727216397" duration="6434000" />
     </task>
+    <task id="LOCAL-00001" summary="leetcode add readme">
+      <created>1572739557150</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1572739557150</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +148,12 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="leetcode add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="leetcode add readme" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/leetcode$InvertAnImage.coverage" NAME="InvertAnImage Coverage Results" MODIFIED="1572738911010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Array" />
+    <SUITE FILE_PATH="coverage/leetcode$InvertAnImage.coverage" NAME="InvertAnImage Coverage Results" MODIFIED="1573427043350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Array" />
+    <SUITE FILE_PATH="coverage/leetcode$SortArrayByParity.coverage" NAME="SortArrayByParity Coverage Results" MODIFIED="1573427590629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Easy/Array" />
   </component>
 </project>
